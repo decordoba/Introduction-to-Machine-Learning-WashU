@@ -1,6 +1,10 @@
 # Introduction to Machine Learning
-Taken on: Washington University, Fall 2016
-Instructor: Sanmay Das, Marion Neumann
-[Webpage](http://classes.cec.wustl.edu/~cse417t/)
+**Taken on: Washington University in Saint Louis, Fall 2016**
 
-Some of the small sketches that we made in Matlab. Most of them are pretty simple but nevertheless useful.
+**Instructor: Marion Neumann**
+
+**[Webpage](http://classes.cec.wustl.edu/~cse417t/)**
+
+Some programs to solve different machine learning problems, built in Matlab. Most of them are simple but nevertheless useful.
+
+Some of them are really interactive and visual, like face recognition, text parsing, etc.
